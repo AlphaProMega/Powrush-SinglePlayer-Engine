@@ -1,4 +1,4 @@
-# Powrush Open Engine
+# Powrush Single-Player Open Engine
 
 Open-source core engine for **Powrush Single-Player** – a post-apocalyptic space-thriving horde survival game with low-gravity arenas, action-RPG progression, and P2ENL (Play-to-Earn-and-Learn) elements grounded in realistic multiplanetary vision.
 
@@ -18,4 +18,4 @@ Inspired by Conquest Dark, Halls of Torment, and Diablo-style loops—with a Pow
 ## Setup
 1. Clone:
    ```bash
-   git clone https://github.com/AutonomicityGames/Powrush-OpenEngine.git
+   git clone https://github.com/AlphaProMega/Powrush-SinglePlayer-Engine.git
