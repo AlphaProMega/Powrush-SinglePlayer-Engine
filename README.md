@@ -1,6 +1,6 @@
 # Powrush Single-Player Open Engine
 
-Open-source core engine for **Powrush Single-Player** – a post-apocalyptic space-thriving horde survival game with low-gravity arenas, action-RPG progression, and P2ENL (Play-to-Earn-and-Learn) elements grounded in realistic multiplanetary vision.
+Source-available core engine for **Powrush Single-Player** – a post-apocalyptic space-thriving horde survival game with low-gravity arenas, action-RPG progression, and P2ENL (Play-to-Earn-and-Learn) elements grounded in realistic multiplanetary vision.
 
 Inspired by Conquest Dark, Halls of Torment, and Diablo-style loops—with a Powrush twist: Fight Draek hordes, nurture kingdoms, thrive eternally.
 
