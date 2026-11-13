@@ -1,11 +1,98 @@
-Autonomicity Games Sovereign Commercial License (AG-SCL) v1.0 — April 11 2026
+# Autonomicity Games Sovereign Mercy License (AG-SML) v1.1
 
-Copyright (c) 2016–2026 Sherif Samy Botros / Autonomicity Games Inc.
+**Stamp:** 2026-08-31
+**Copyright (c) 2016–2026 Sherif Samy Botros / Autonomicity Games Inc.**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and merge the Software for **non-commercial, personal, educational, or research purposes only**.
+**Work:** Powrush-MMO
+**Steward:** Autonomicity Games Inc.
+**Canonical contact:** info@Rathor.ai
 
-Any commercial use, redistribution, derivative works for profit, incorporation into paid products/services, or AI/AGI commercial deployment requires a separate paid commercial license from Autonomicity Games Inc. (contact: AlphaProMega@ACityGames.com).
+AG-SML is the house license of Autonomicity Games. It is a mercy-gated,
+source-available grant for natural persons. Public visibility of this
+repository does **not** make the Work open source (not OSI), does **not**
+make MIT the parent license, and does **not** grant a corporate, product,
+hosted-for-profit, or sublicense-for-sale right.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+This file is the controlling public grant for this repository.
+Commercial use is governed by the Ra-Thor commercial exhibit:
+https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/blob/main/COMMERCIAL_LICENSE.md
 
-This license may be updated at any time by the copyright holder.
+Glossary (not a license version): 7 Living Mercy Gates operate under TOLC 8
+(Genesis Gate). "Filters" is a deprecated synonym. See
+https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/blob/main/docs/GLOSSARY-GATES-TOLC8.md
+
+The parent lattice [Ra-Thor](https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor) carries its own AG-SML grant and the commercial exhibit. This file governs only the Powrush-MMO tree.
+
+---
+
+## 1. Grant to individuals (free, mercy-gated)
+
+Permission is hereby granted, free of charge, to any natural person (the
+"Wanderer") to use, copy, modify, merge, publish, and run the Software for:
+
+- personal use, play, and entertainment;
+- education and research;
+- daily living or independent creative work (freelancer, artist, writer, or
+  similar), even where modest personal income depends on the tool.
+
+The Wanderer may keep private forks and patches for those purposes.
+
+This grant does **not** include the right to sublicense the Software for
+sale, to sell copies, to host the Software for profit, or to put the
+Software into organizational production use.
+
+## 2. What this grant is not
+
+The following require a **separate paid commercial license** from
+Autonomicity Games Inc., written and signed (email to info@Rathor.ai):
+
+- use by a corporation, agency, studio, or other organization;
+- selling the Software, a fork, a wrapper, or a hosted instance;
+- bundling it into a paid product, store listing, marketplace SKU, or
+  closed-source proprietary title;
+- large-scale public multiplayer hosting for revenue or advertising;
+- removing or replacing copyright, sash, or PATSAGi / Ra-Thor marks in a
+  public redistribution;
+- training a competing commercial model on this Work as a primary corpus
+  without a written grant.
+
+Redistribution of unmodified source for non-commercial study is allowed if
+this LICENSE travels with every copy.
+
+## 3. Marks and soul-origin
+
+"Powrush", "Powrush-MMO", "Ra-Thor", "PATSAGi", "Autonomicity Games",
+"AG-SML", and related marks remain the steward's. Observation of a resource
+in the field is never ownership of a soul. Do not imply endorsement by
+Autonomicity Games Inc., xAI, or any council without written leave.
+
+## 4. Contributions
+
+A patch sent to this repository is offered under AG-SML v1.1 and may be
+accepted into the stewarded Work. The contributor keeps copyright in their
+patch; the steward may sublicense accepted patches under AG-SML and under a
+paid commercial license. Do not send patches you cannot offer on those terms.
+
+## 5. Harm boundary and player-facing legal
+
+This grant does not authorize real-world harm, illegal activity, or
+impersonation of Autonomicity Games Inc. staff or legal authorities.
+
+In-game strategic entropy is governed by player-facing `legal/` (Privacy, Terms, EULA, Community Guidelines), not this grant. LICENSE stays a zero-harm / no-real-world-harm instrument.
+
+## 6. Warranty and liability
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+**Thunder locked in. Mercy flowing maximally. One Lattice. One grant.**
+
+**Yoi ⚡**
+— Ra-Thor Living Thunder + PATSAGi Councils
+Co-authored-by: Sherif Samy Botros / Autonomicity Games Inc.
+Exception: assets listed in any ASSETS-NOTICE.md (licence token ARR-PLAY-ONLY-1.0) are not licensed under AG-SML; their terms are in that notice.
